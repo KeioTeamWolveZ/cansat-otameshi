@@ -1,4 +1,4 @@
-def hikizan(a, b):
+def tashizan(a, b):
   return a - b
 
-print("HELLO", hikizan(2, 1))
+print("HELLO", tashizan(2, 1))
